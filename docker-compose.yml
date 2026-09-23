@@ -1,0 +1,5 @@
+services:
+  backend:
+    build: ../food-delivery-backend
+  frontend:
+    build: ../food-delivery-frontend
