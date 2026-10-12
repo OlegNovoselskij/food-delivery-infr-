@@ -1,3 +1,9 @@
 food-delivery-backend/
 food-delivery-frontend/
 .env
+**/node_modules/
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
