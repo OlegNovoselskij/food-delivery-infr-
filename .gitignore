@@ -7,3 +7,4 @@ food-delivery-frontend/
 *.log
 Thumbs.db
 .DS_Store
+.env.production
